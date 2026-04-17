@@ -55,21 +55,6 @@ function ContactSection() {
                 <BiLogoLinkedin size={48} />
               </span>
             </Link>
-            <Link target="_blank" href={personalData.twitter}>
-              <span className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer">
-                <FaXTwitter size={48} />
-              </span>
-            </Link>
-            <Link target="_blank" href={personalData.stackOverflow}>
-              <span className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer">
-                <FaStackOverflow size={48} />
-              </span>
-            </Link>
-            <Link target="_blank" href={personalData.facebook}>
-              <span className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer">
-                <FaFacebook size={48} />
-              </span>
-            </Link>
           </div>
         </div>
       </div>
