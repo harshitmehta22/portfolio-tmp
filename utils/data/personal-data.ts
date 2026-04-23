@@ -6,8 +6,8 @@ export const personalData = {
   email: 'harshitmehta155@gmail.com',
   phone: '+91 9340789782',
   address: '335, Tilak nagar , indore, Madhya Pradesh, India',
-  github: 'https://github.com/said7388',
+  github: 'https://github.com/harshitmehta22',
   linkedIn: 'https://www.linkedin.com/in/harshit-mehta-22b972153/',
-  devUsername: "said7388",
+  devUsername: "harshitmehta22",
   resume: "https://drive.google.com/file/d/1cL2n8OQhfU0uOMq45KiBWoCfjeIQRXts/view?usp=drive_link"
 }

@@ -46,12 +46,12 @@ function ContactSection() {
           </div>
           <div className="mt-8 lg:mt-16 flex items-center gap-5 lg:gap-10">
             <Link target="_blank" href={personalData.github}>
-              <span className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer">
+              <span className="bg-[#8b98a5] rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer">
                 <IoLogoGithub size={48} />
               </span>
             </Link>
             <Link target="_blank" href={personalData.linkedIn}>
-              <span className="bg-[#8b98a5] p-3 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer">
+              <span className="bg-[#8b98a5] rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer">
                 <BiLogoLinkedin size={48} />
               </span>
             </Link>
